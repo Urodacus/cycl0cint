@@ -1,0 +1,83 @@
+[33mcommit db7a63cc7770b1450f74ff919e0b22a4b99c66b8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Cycl0matic <muhammadalaidy@protonmail.com>
+Date:   Fri Nov 6 11:18:12 2020 +0200
+
+    liblcycl0cintconsensus.pc added
+
+[33mcommit c9eb10dd090cc21511af7107b234813ffcb24685[m
+Author: Cycl0matic <muhammadalaidy@protonmail.com>
+Date:   Fri Nov 6 11:15:11 2020 +0200
+
+    libbitcoinconsensus.pc added
+
+[33mcommit ee5631b1b0e68c0dace9518277f1f1316e33a599[m
+Author: Cycl0matic <muhammadalaidy@protonmail.com>
+Date:   Fri Nov 6 11:13:51 2020 +0200
+
+    libbitcoinconsensus added
+
+[33mcommit dd265193ac45668fc74bce53a0eb78e89861d350[m
+Author: Cycl0matic <muhammadalaidy@protonmail.com>
+Date:   Fri Nov 6 11:12:13 2020 +0200
+
+    majorf added
+
+[33mcommit 81667f293616acbcc00f954b49ec55d4a6697949[m
+Author: Cycl0matic <muhammadalaidy@protonmail.com>
+Date:   Fri Nov 6 11:08:41 2020 +0200
+
+    cloning btc COPYING
+
+[33mcommit 2e985e7869907158d8d61ec36cf7fa9eba534909[m
+Author: Cycl0matic <muhammadalaidy@protonmail.com>
+Date:   Fri Nov 6 11:05:37 2020 +0200
+
+    edit configure.ac
+
+[33mcommit a5e26550e4fe2cc12db31b98374522f5f18770e8[m
+Author: Cycl0matic <muhammadalaidy@protonmail.com>
+Date:   Fri Nov 6 11:04:44 2020 +0200
+
+    travis.yml cloning
+
+[33mcommit a1dd8741c359924e0850fa4141bae6266330c516[m
+Author: Cycl0matic <muhammadalaidy@protonmail.com>
+Date:   Fri Nov 6 11:01:00 2020 +0200
+
+    add .gitignore
+
+[33mcommit f4415248aaacf24b651b86703f8123cfd0bcbaab[m
+Author: Cycl0matic <muhammadalaidy@protonmail.com>
+Date:   Fri Nov 6 10:58:10 2020 +0200
+
+    set gitattribute
+
+[33mcommit 803fb31b8bca98207e6ee32178f394b8d37c4bd9[m
+Author: Cycl0matic <muhammadalaidy@protonmail.com>
+Date:   Fri Nov 6 10:54:46 2020 +0200
+
+    renaming my own .m4 files
+
+[33mcommit 86b829998e4307c20f481e165107d6bd80aed83b[m
+Author: Cycl0matic <muhammadalaidy@protonmail.com>
+Date:   Fri Nov 6 10:53:21 2020 +0200
+
+    create m4 pckg
+
+[33mcommit 3317f38b1ae23a7e984769c1473026c3d1a2694b[m
+Author: Cycl0matic <muhammadalaidy@protonmail.com>
+Date:   Fri Nov 6 10:52:09 2020 +0200
+
+    cloning btc build-aux
+
+[33mcommit c8468e4863214de019d7555623f70a59aff68df8[m
+Author: Cycl0matic <muhammadalaidy@protonmail.com>
+Date:   Fri Nov 6 10:01:23 2020 +0200
+
+    add tx/config
+
+[33mcommit b7691057dbc99c583f5a05c3f710c32c131bf0ed[m
+Author: Cycl0matic <muhammadalaidy@protonmail.com>
+Date:   Fri Nov 6 10:00:01 2020 +0200
+
+    initial commit
