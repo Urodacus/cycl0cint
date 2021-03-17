@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/cycl0cint/cycl0cint.svg?branch=master)](https://travis-ci.org/cycl0cint/cycl0cint)
 
-https://cycl0cintcore.org
+https://cycl0cintcore.org old link
 
 ## What is cycl0cint?
 
